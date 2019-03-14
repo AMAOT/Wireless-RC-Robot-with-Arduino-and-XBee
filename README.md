@@ -48,6 +48,7 @@ Products that use this Library
 * [ROB-13166](https://www.sparkfun.com/products/13166) - Basic RedBot Kit
 * [ROB-12649](https://www.sparkfun.com/products/12649) - RedBot Experiment Kit
 * [KIT-14051](https://www.sparkfun.com/products/14051) - Wireless Joystick Kit
+* [WRL-15126](https://www.sparkfun.com/products/15126) - XBee Series 3 Configured for Series 1 Firmware
 
 License Information
 -------------------
