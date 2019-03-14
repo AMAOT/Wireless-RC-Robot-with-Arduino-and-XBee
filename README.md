@@ -42,6 +42,13 @@ XBee w/ Series 1 Firmware:  Point to Point Configuration
   * DL = 0 <- point to Master "MY"
   * MY = 1 <- Slave "MY", make it unique in the network.
 
+Products that use this Library 
+---------------------------------
+
+* [ROB-13166](https://www.sparkfun.com/products/13166) - Basic RedBot Kit
+* [ROB-12649](https://www.sparkfun.com/products/12649) - RedBot Experiment Kit
+* [KIT-14051](https://www.sparkfun.com/products/14051) - Wireless Joystick Kit
+
 License Information
 -------------------
 
